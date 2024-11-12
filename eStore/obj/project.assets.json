@@ -6602,13 +6602,13 @@
     },
     "BusinessObject/1.0.0": {
       "type": "project",
-      "path": "../../../../PRN211-Project-main/PRN211-Project-main/BusinessObject/BusinessObject.csproj",
-      "msbuildProject": "../../../../PRN211-Project-main/PRN211-Project-main/BusinessObject/BusinessObject.csproj"
+      "path": "../../../../../PRN211/PRN211-Project-main/PRN211-Project-main/BusinessObject/BusinessObject.csproj",
+      "msbuildProject": "../../../../../PRN211/PRN211-Project-main/PRN211-Project-main/BusinessObject/BusinessObject.csproj"
     },
     "DataAccess/1.0.0": {
       "type": "project",
-      "path": "../../../../PRN211-Project-main/PRN211-Project-main/DataAccess/DataAccess.csproj",
-      "msbuildProject": "../../../../PRN211-Project-main/PRN211-Project-main/DataAccess/DataAccess.csproj"
+      "path": "../../../../../PRN211/PRN211-Project-main/PRN211-Project-main/DataAccess/DataAccess.csproj",
+      "msbuildProject": "../../../../../PRN211/PRN211-Project-main/PRN211-Project-main/DataAccess/DataAccess.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6619,19 +6619,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DINH KHOI\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN211\\New folder\\Group_6\\Group6\\eStore\\eStore.csproj",
+      "projectUniqueName": "D:\\BuiGiaBaoCE170974\\GASM PRN211\\New folder\\Group6\\eStore\\eStore.csproj",
       "projectName": "eStore",
-      "projectPath": "D:\\PRN211\\New folder\\Group_6\\Group6\\eStore\\eStore.csproj",
-      "packagesPath": "C:\\Users\\DINH KHOI\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN211\\New folder\\Group_6\\Group6\\eStore\\obj\\",
+      "projectPath": "D:\\BuiGiaBaoCE170974\\GASM PRN211\\New folder\\Group6\\eStore\\eStore.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\BuiGiaBaoCE170974\\GASM PRN211\\New folder\\Group6\\eStore\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DINH KHOI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6694,7 +6699,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

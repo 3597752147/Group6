@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN211\\New folder\\Group_6\\Group6\\eStore\\eStore.csproj": {}
+    "D:\\BuiGiaBaoCE170974\\GASM PRN211\\New folder\\Group6\\eStore\\eStore.csproj": {}
   },
   "projects": {
-    "D:\\PRN211\\New folder\\Group_6\\Group6\\eStore\\eStore.csproj": {
+    "D:\\BuiGiaBaoCE170974\\GASM PRN211\\New folder\\Group6\\eStore\\eStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN211\\New folder\\Group_6\\Group6\\eStore\\eStore.csproj",
+        "projectUniqueName": "D:\\BuiGiaBaoCE170974\\GASM PRN211\\New folder\\Group6\\eStore\\eStore.csproj",
         "projectName": "eStore",
-        "projectPath": "D:\\PRN211\\New folder\\Group_6\\Group6\\eStore\\eStore.csproj",
-        "packagesPath": "C:\\Users\\DINH KHOI\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN211\\New folder\\Group_6\\Group6\\eStore\\obj\\",
+        "projectPath": "D:\\BuiGiaBaoCE170974\\GASM PRN211\\New folder\\Group6\\eStore\\eStore.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "D:\\BuiGiaBaoCE170974\\GASM PRN211\\New folder\\Group6\\eStore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\DINH KHOI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -77,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
